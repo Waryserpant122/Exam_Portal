@@ -1,7 +1,7 @@
 # Exam_Portal
 A simple django based examination portal.
 Try clearing the databases and starting a fresh creating new Users in admin to explore the webpage
-#Description
+# Description
 In this project, an Exam Portal is being built using Django backend system. The idea is to have
 separate login system for the professors and students using their own credentials and an admin at the
 topmost level managing the overall system. Currently, MCQ Questions can be created/edited by
